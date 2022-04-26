@@ -1,14 +1,16 @@
 # **Takım İsmi**
 
-Takım X
+Team73
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Şevval Nalbantoğlu: Product Owner
+- Fatma Feyza Nur Satılmış: Scrum Master
+- Baran Sönmez: Developer
+- Mertcan Engin: Developer
+- Nesim Şişik:  Developer
 
 ## Ürün İsmi
 
@@ -35,7 +37,7 @@ Takım X
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board] (https://miro.com/app/board/uXjVO5nJmdM=/?share_link_id=761499253915)
 
 ---
 
