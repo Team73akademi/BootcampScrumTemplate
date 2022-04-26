@@ -14,32 +14,29 @@ Team73
 
 ## Ürün İsmi
 
---Movie App--
+******
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- ****** insanların boş vakitlerinde keyif almasını sağlayan, hikayenin sonunu merak ettiklerinden oynamak için vakit yaratacakları bir oyun. Hyper-casual olmasına rağmen oyun içine işlenmiş ince ayrıntılarla bir hikayenin varlığı hissediliyor olacak.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- 3D 
+- Hyper-casual
+- Hikayesi olan bir oyun
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Vakit geçirirken oyun oynayan, 
+- Oyun oynarken eğlenmek isteyen,
+- Eğlenirken kendini bir hikayenin içinde hissetmekten keyif alan her yaş aralığı 
 
 ## Product Backlog URL
 
 [Miro Backlog Board] (https://miro.com/app/board/uXjVO5nJmdM=/?share_link_id=761499253915)
 
----
+
 
 # Sprint 1
 
