@@ -14,11 +14,11 @@ Team73
 
 ## Ürün İsmi
 
-******
+DaRu
 
 ## Ürün Açıklaması
 
-- ****** insanların boş vakitlerinde keyif almasını sağlayan, hikayenin sonunu merak ettiklerinden oynamak için vakit yaratacakları bir oyun. Hyper-casual olmasına rağmen oyun içine işlenmiş ince ayrıntılarla bir hikayenin varlığı hissediliyor olacak.
+- DaRu insanların boş vakitlerinde keyif almasını sağlayan, hikayenin sonunu merak ettiklerinden oynamak için vakit yaratacakları bir oyun. Hyper-casual olmasına rağmen oyun içine işlenmiş ince ayrıntılarla bir hikayenin varlığı hissediliyor olacak.
 
 ## Ürün Özellikleri
 
@@ -53,8 +53,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum.docx](https://github.com/Team73akademi/BootcampScrumTemplate/files/8645306/Daily.Scrum.docx)
 
 
-- **Sprint board update**: Sprint board screenshotları: 
-![1 screenshot](https://user-images.githubusercontent.com/104391644/167257715-bbfba1cd-dd7d-4cf7-885f-7a120f19c0d5.png)
+- **Sprint board update**: Sprint board screenshotları:
+![1 screenshot](https://user-images.githubusercontent.com/104391644/167257901-49bf5247-5fbd-48ce-b9a3-ea6b65b0c88b.png)
+![2 screenshot](https://user-images.githubusercontent.com/104391644/167257934-ec651a89-6622-4846-bb14-b32180cd2298.png)
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
