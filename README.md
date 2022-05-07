@@ -34,7 +34,7 @@ DaRu
 
 ## Product Backlog URL
 
-[Miro Backlog Board] (https://miro.com/app/board/uXjVO5nJmdM=/?share_link_id=761499253915)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO5nJmdM=/?share_link_id=761499253915)
 
 
 
