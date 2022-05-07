@@ -68,9 +68,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Sprint Retrospective:** 
-- Takım içinde görev dağılımı ile ilgili düzenlemeler yapılma kararı alındı.
-- Sprint planlama toplantılarında developer'ların geri bildirim verdiğinden emin olunmalı.
-- Daily Scrum'lar için daha düzenli bilgi verilmesi kararlaştırıldı.
+  * Takım içinde görev dağılımı ile ilgili düzenlemeler yapılma kararı alındı.
+  * Sprint planlama toplantılarında developer'ların geri bildirim verdiğinden emin olunmalı.
+  * Daily Scrum'lar için daha düzenli bilgi verilmesi kararlaştırıldı.
   
 
 -**Diğer Notlar**:
