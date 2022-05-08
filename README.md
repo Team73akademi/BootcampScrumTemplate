@@ -65,11 +65,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 
-- **Sprint Review**: 
-  *
-  *
-  *
-
+- **Sprint Review**:Açıklama: Tasarımların tamamının elle yapılması kısa süre içinde mümkün olmadığından tasarıma ek hazır asset kullanımına karar verilmiştir.Karakter tasarımı daha detaylı olarak incelenecek ve ikinci sprint sonuna hazır hale getirilecektir. Sprint Review katılımcıları:Şevval Nalbantoğlu, Fatma Feyza Nur Satılmış, Baran Sönmez, Mertcan Engin, Nesim Şişik
 
 
 
