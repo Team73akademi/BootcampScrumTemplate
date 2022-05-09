@@ -50,7 +50,8 @@ DaRu
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum.docx](https://github.com/Team73akademi/BootcampScrumTemplate/files/8645306/Daily.Scrum.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:[Daily Scrum.docx](https://github.com/Team73akademi/BootcampScrumTemplate/files/8653733/Daily.Scrum.docx)
+
 
 
 - **Sprint board update**: Sprint board screenshotları:
