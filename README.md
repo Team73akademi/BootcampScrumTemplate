@@ -83,8 +83,21 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ---
 
 # Sprint 2
+Sprint Notları: 
 
+Puan tamamlama mantığı: 
 
+Backlog düzeni ve Story seçimleri: 
+
+Daily Scrum:
+
+Sprint board update: Sprint board screenshotları:
+
+ **Ürün Durumu**: Ekran görüntüleri:
+ 
+ **Sprint Review**:Açıklama:
+ 
+  **Sprint Retrospective:** 
 ---
 
 # Sprint 3
