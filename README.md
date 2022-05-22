@@ -83,21 +83,30 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ---
 
 # Sprint 2
-Sprint Notları: 
+ **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-Puan tamamlama mantığı: 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
 
-Backlog düzeni ve Story seçimleri: 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'te 160 ile devam edilmesi gerektiğine karar verildi. 3 Sprint'e ayırdığımız için 1. Sprint = 120 puan / 2. Sprint = 160 puan / 3. Sprint = 100 puan olarak belirlendi. Oyunun tamamlanmasında en fazla değer verilen kısım ikinci kısma tekabül ettiğinden puan miktarı 2. Sprint için en fazla olacak şekilde kararlaştırıldı.
 
-Daily Scrum:
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lerin önem sırasına göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Sprint board update: Sprint board screenshotları:
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
- **Ürün Durumu**: Ekran görüntüleri:
- 
- **Sprint Review**:Açıklama:
- 
-  **Sprint Retrospective:** 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:[09.05.2022- 21.05.2022 daily scrum.docx](https://github.com/Team73akademi/BootcampScrumTemplate/files/8749186/09.05.2022-.21.05.2022.daily.scrum.docx)
+
+**Sprint board update**: Sprint board screenshotları:......
+
+**Ürün Durumu**: Ekran görüntüleri:......
+
+**Sprint Review**:Açıklama: .....  Sprint Review katılımcıları:Şevval Nalbantoğlu, Fatma Feyza Nur Satılmış, Baran Sönmez, Mertcan Engin, Nesim Şişik
+
+- **Sprint Retrospective:** 
+  .....
+  
+
+-**Diğer Notlar**:
+
 ---
 
 # Sprint 3
