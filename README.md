@@ -105,6 +105,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![oyungörsel3](https://user-images.githubusercontent.com/104391644/169767997-d7b677ba-5fae-4644-8a34-c6509cdb20dd.JPG)
 ![oyungörsel1](https://user-images.githubusercontent.com/104391644/169768011-d7031f09-b5a2-43db-8c95-90d5135ea80d.JPG)
 ![oyungörsel2](https://user-images.githubusercontent.com/104391644/169768016-3aac568b-397a-4693-a352-a71825c91df0.JPG)
+![WhatsApp Image 2022-05-23 at 17 37 13](https://user-images.githubusercontent.com/104391644/169853121-0d776391-87c9-4344-92f7-38fb90c705f0.jpeg)
+![WhatsApp Image 2022-05-23 at 17 59 30 (1)](https://user-images.githubusercontent.com/104391644/169853132-78f6b382-182a-4a71-be3c-58611e79773f.jpeg)
+![WhatsApp Image 2022-05-23 at 17 59 30](https://user-images.githubusercontent.com/104391644/169853138-bbfc7d09-2fab-411d-8fc5-aa405875c376.jpeg)
 
 
 **Sprint Review**:Açıklama: Renk körleri için yapılacak fikir çok zaman alacağı için projenin bootcamp sonrası aşamasına ertelenmiştir. Tararım asset kullanma fikri çok vakit aldığı için azami miktarda kullanılacaktır. Sprint Review katılımcıları:Şevval Nalbantoğlu, Fatma Feyza Nur Satılmış, Baran Sönmez, Mertcan Engin, Nesim Şişik
