@@ -102,6 +102,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 **Ürün Durumu**: Ekran görüntüleri:![tasarım dört](https://user-images.githubusercontent.com/104391644/169713725-4258cd79-bc3c-426c-87d7-8ef9014c5ed4.jpg)
+![oyungörsel3](https://user-images.githubusercontent.com/104391644/169767997-d7b677ba-5fae-4644-8a34-c6509cdb20dd.JPG)
+![oyungörsel1](https://user-images.githubusercontent.com/104391644/169768011-d7031f09-b5a2-43db-8c95-90d5135ea80d.JPG)
+![oyungörsel2](https://user-images.githubusercontent.com/104391644/169768016-3aac568b-397a-4693-a352-a71825c91df0.JPG)
 
 
 **Sprint Review**:Açıklama: Renk körleri için yapılacak fikir çok zaman alacağı için projenin bootcamp sonrası aşamasına ertelenmiştir. Tararım asset kullanma fikri çok vakit aldığı için azami miktarda kullanılacaktır. Sprint Review katılımcıları:Şevval Nalbantoğlu, Fatma Feyza Nur Satılmış, Baran Sönmez, Mertcan Engin, Nesim Şişik
