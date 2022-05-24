@@ -110,9 +110,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![WhatsApp Image 2022-05-23 at 17 59 30](https://user-images.githubusercontent.com/104391644/169853138-bbfc7d09-2fab-411d-8fc5-aa405875c376.jpeg)
 
 
-**Sprint Review**:Açıklama: Renk körleri için yapılacak fikir çok zaman alacağı için projenin bootcamp sonrası aşamasına ertelenmiştir. Tararım asset kullanma fikri çok vakit aldığı için azami miktarda kullanılacaktır. Sprint Review katılımcıları:Şevval Nalbantoğlu, Fatma Feyza Nur Satılmış, Baran Sönmez, Mertcan Engin, Nesim Şişik
+**Sprint Review**:Açıklama: Renk körleri için yapılacak fikir çok zaman alacağı için projenin bootcamp sonrası aşamasına ertelenmiştir. Tasarım asset kullanma fikri çok vakit aldığı için azami miktarda kullanılacaktır. Sprint Review katılımcıları:Şevval Nalbantoğlu, Fatma Feyza Nur Satılmış, Baran Sönmez, Mertcan Engin, Nesim Şişik
 
-- **Sprint Retrospective:** 
+ **Sprint Retrospective:** 
   * Takım içindeki iletişimin daha da iyileştirilmesi gerekmektedir.
   * Zaman yönetimi daha iyi yapılmalıdır.
   * Haberleşme için başka platformlar kullanılabilir.
