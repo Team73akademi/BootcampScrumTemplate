@@ -122,4 +122,23 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 # Sprint 3
 
----
+**Sprint Notları**: 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 
+
+- **Puan tamamlama mantığı**: 
+
+- **Backlog düzeni ve Story seçimleri**: 
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
+
+**Sprint board update**: Sprint board screenshotları:
+
+
+**Ürün Durumu**: Ekran görüntüleri:
+
+
+**Sprint Review**:Açıklama: 
+
+ **Sprint Retrospective:** 
+  
