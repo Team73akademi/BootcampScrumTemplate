@@ -122,23 +122,34 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 # Sprint 3
 
-**Sprint Notları**: 
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Puan tamamlama mantığı**: 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Backlog düzeni ve Story seçimleri**: 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'e 100 puan bırakılmasına karar verildi. 3 Sprint'e ayırdığımız için 1. Sprint = 120 puan / 2. Sprint = 160 puan / 3. Sprint = 100 puan olarak belirlendi. Oyunun tamamlanmasında üçüncü sprintte proje tamamlaması yapılacağı için son kapan puanlar üçüncü sprinte verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lerin önem sırasına göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
-**Sprint board update**: Sprint board screenshotları:
 
 
-**Ürün Durumu**: Ekran görüntüleri:
+- **Sprint board update**: Sprint board screenshotları:
 
 
-**Sprint Review**:Açıklama: 
 
- **Sprint Retrospective:** 
-  
+- **Ürün Durumu**: Ekran görüntüleri:
+ 
+
+
+
+- **Sprint Review**:Açıklama: ...... Sprint Review katılımcıları:Şevval Nalbantoğlu, Fatma Feyza Nur Satılmış, Baran Sönmez, Mertcan Engin, Nesim Şişik
+
+
+
+
+- **Sprint Retrospective:** 
+  * 
