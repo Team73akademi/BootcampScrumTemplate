@@ -145,15 +145,21 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: Ekran görüntüleri:![WhatsApp Image 2022-06-06 at 21 56 20 (1)](https://user-images.githubusercontent.com/104391644/172228607-c2fc85a8-d897-45bf-bd91-396bc846f2cd.jpeg)
+![WhatsApp Image 2022-06-06 at 21 56 20](https://user-images.githubusercontent.com/104391644/172228612-bfc8003f-67e0-4b9b-9428-637f8f171e89.jpeg)
+![WhatsApp Image 2022-06-06 at 21 56 19](https://user-images.githubusercontent.com/104391644/172228617-6b04726d-b7cd-44ab-b8e5-c365d86ccb5b.jpeg)
+![WhatsApp Image 2022-06-06 at 21 56 20 (3)](https://user-images.githubusercontent.com/104391644/172228619-3ec542af-becf-415d-8a62-c0202f92ba87.jpeg)
+![WhatsApp Image 2022-06-06 at 21 56 20 (2)](https://user-images.githubusercontent.com/104391644/172228621-2349d33e-1309-46ab-8f3e-2b1ceb877911.jpeg)
+
  
 
-
-
-- **Sprint Review**:Açıklama: ...... Sprint Review katılımcıları:Şevval Nalbantoğlu, Fatma Feyza Nur Satılmış, Baran Sönmez, Mertcan Engin, Nesim Şişik
+- **Sprint Review**:Açıklama: Zor zamanlar geçirdiğimizden dolayı oyunun tasarımında değişiklik yapılmasına karar verildi. Herkesin en rahat şekilde katkı sağlayabileceği bir ortam sağlandı. Sprint Review katılımcıları:Şevval Nalbantoğlu, Fatma Feyza Nur Satılmış, Baran Sönmez, Mertcan Engin, Nesim Şişik
 
 
 
 
 - **Sprint Retrospective:** 
-  * 
+  * Takım içindeki iletişimin daha da iyileştirilmesi gerekmektedir.
+  * Zaman yönetimi daha iyi yapılmalıdır.
+  * Plan program yaparken en kısıtlı süreye göre düşünülmelidir.
+  * Bir dahaki projelerde yaşadıklarımız dikkate alınmalıdır.
