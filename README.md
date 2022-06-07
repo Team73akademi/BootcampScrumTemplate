@@ -1,3 +1,4 @@
+Not: Proje dosyalarımız profilimizdeki "mobiloyun" adlı başka bir repostory'de bulunmaktadır. Bağlantı: https://github.com/Team73akademi/mobiloyun
 # **Takım İsmi**
 
 Team73
